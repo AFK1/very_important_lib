@@ -1,1 +1,1 @@
-typedef boid void
+typedef void boid;
